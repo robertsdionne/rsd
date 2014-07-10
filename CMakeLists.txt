@@ -1,4 +1,7 @@
 cmake_minimum_required (VERSION 2.8.12)
 set(CMAKE_CXX_FLAGS "-std=c++11")
-project (rsd)
+project(rsd)
+add_definitions(-DGL_GLEXT_PROTOTYPES)
+add_subdirectory(libraries/glfw)
+include_directories(libraries/glfw/include)
 add_subdirectory(source)
