@@ -1,7 +1,7 @@
-#ifndef RSD_APPLICATION_H_
-#define RSD_APPLICATION_H_
+#ifndef RSD_APPLICATION_HPP_
+#define RSD_APPLICATION_HPP_
 
-#include "interface.h"
+#include "interface.hpp"
 
 namespace rsd {
 
@@ -14,4 +14,4 @@ namespace rsd {
 
 }  // namespace rsd
 
-#endif  // RSD_APPLICATION_H_
+#endif  // RSD_APPLICATION_HPP_

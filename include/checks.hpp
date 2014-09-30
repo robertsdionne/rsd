@@ -1,5 +1,5 @@
-#ifndef RSD_CHECKS_H_
-#define RSD_CHECKS_H_
+#ifndef RSD_CHECKS_HPP_
+#define RSD_CHECKS_HPP_
 
 #include <cstdlib>
 #include <iostream>
@@ -36,4 +36,4 @@ inline void Fail(const std::string &message, int line, const std::string &file) 
   exit(1);
 }
 
-#endif  // RSD_CHECKS_H_
+#endif  // RSD_CHECKS_HPP_

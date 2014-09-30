@@ -3,10 +3,10 @@
 #include <glm/glm.hpp>
 #include <iostream>
 
-#include "checks.h"
-#include "glfwapplication.h"
-#include "mouse.h"
-#include "renderer.h"
+#include "checks.hpp"
+#include "glfwapplication.hpp"
+#include "mouse.hpp"
+#include "renderer.hpp"
 
 namespace rsd {
 

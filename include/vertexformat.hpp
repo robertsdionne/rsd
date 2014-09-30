@@ -1,5 +1,5 @@
-#ifndef RSD_VERTEXFORMAT_H_
-#define RSD_VERTEXFORMAT_H_
+#ifndef RSD_VERTEXFORMAT_HPP_
+#define RSD_VERTEXFORMAT_HPP_
 
 #include <GLFW/glfw3.h>
 #include <string>
@@ -35,4 +35,4 @@ namespace rsd {
 
 }  // namespace rsd
 
-#endif  // RSD_VERTEXFORMAT_H_
+#endif  // RSD_VERTEXFORMAT_HPP_

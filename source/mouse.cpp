@@ -2,7 +2,7 @@
 #include <glm/glm.hpp>
 #include <map>
 
-#include "mouse.h"
+#include "mouse.hpp"
 
 namespace rsd {
 

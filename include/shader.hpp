@@ -1,5 +1,5 @@
-#ifndef RSD_SHADER_H_
-#define RSD_SHADER_H_
+#ifndef RSD_SHADER_HPP_
+#define RSD_SHADER_HPP_
 
 #include <GLXW/glxw.h>
 #include <GLFW/glfw3.h>
@@ -41,4 +41,4 @@ namespace rsd {
 
 }  // namespace rsd
 
-#endif  // RSD_SHADER_H_
+#endif  // RSD_SHADER_HPP_

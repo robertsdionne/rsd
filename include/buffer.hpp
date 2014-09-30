@@ -1,5 +1,5 @@
-#ifndef RSD_BUFFER_H_
-#define RSD_BUFFER_H_
+#ifndef RSD_BUFFER_HPP_
+#define RSD_BUFFER_HPP_
 
 #include <GLXW/glxw.h>
 #include <GLFW/glfw3.h>
@@ -29,4 +29,4 @@ namespace rsd {
 
 }  // namespace rsd
 
-#endif  // RSD_BUFFER_H_
+#endif  // RSD_BUFFER_HPP_

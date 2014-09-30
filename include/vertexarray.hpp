@@ -1,5 +1,5 @@
-#ifndef RSD_VERTEXARRAY_H_
-#define RSD_VERTEXARRAY_H_
+#ifndef RSD_VERTEXARRAY_HPP_
+#define RSD_VERTEXARRAY_HPP_
 
 #include <GLXW/glxw.h>
 #include <GLFW/glfw3.h>
@@ -27,4 +27,4 @@ namespace rsd {
 
 }  // namespace rsd
 
-#endif  // RSD_VERTEXARRAY_H_
+#endif  // RSD_VERTEXARRAY_HPP_

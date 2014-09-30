@@ -1,5 +1,5 @@
-#ifndef RSD_DRAWABLE_H_
-#define RSD_DRAWABLE_H_
+#ifndef RSD_DRAWABLE_HPP_
+#define RSD_DRAWABLE_HPP_
 
 #include <GLFW/glfw3.h>
 #include <vector>
@@ -16,4 +16,4 @@ namespace rsd {
 
 }  // namespace rsd
 
-#endif  // RSD_DRAWABLE_H_
+#endif  // RSD_DRAWABLE_HPP_

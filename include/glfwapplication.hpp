@@ -1,10 +1,10 @@
-#ifndef RSD_GLFWAPPLICATION_H_
-#define RSD_GLFWAPPLICATION_H_
+#ifndef RSD_GLFWAPPLICATION_HPP_
+#define RSD_GLFWAPPLICATION_HPP_
 
 #include <GLFW/glfw3.h>
 #include <string>
 
-#include "application.h"
+#include "application.hpp"
 
 namespace rsd {
 
@@ -41,4 +41,4 @@ namespace rsd {
 
 }  // namespace rsd
 
-#endif  // RSD_GLFWAPPLICATION_H_
+#endif  // RSD_GLFWAPPLICATION_HPP_

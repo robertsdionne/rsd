@@ -3,9 +3,9 @@
 #include <unordered_map>
 #include <vector>
 
-#include "checks.h"
-#include "program.h"
-#include "shader.h"
+#include "checks.hpp"
+#include "program.hpp"
+#include "shader.hpp"
 
 namespace rsd {
 

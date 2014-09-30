@@ -1,7 +1,7 @@
-#ifndef RSD_RENDERER_H_
-#define RSD_RENDERER_H_
+#ifndef RSD_RENDERER_HPP_
+#define RSD_RENDERER_HPP_
 
-#include "interface.h"
+#include "interface.hpp"
 
 namespace rsd {
 
@@ -18,4 +18,4 @@ namespace rsd {
 
 }  // namespace rsd
 
-#endif  // RSD_RENDERER_H_
+#endif  // RSD_RENDERER_HPP_

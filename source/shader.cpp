@@ -5,8 +5,8 @@
 #include <string>
 #include <streambuf>
 
-#include "checks.h"
-#include "shader.h"
+#include "checks.hpp"
+#include "shader.hpp"
 
 namespace rsd {
 

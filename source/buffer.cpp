@@ -1,7 +1,7 @@
 #include <GLXW/glxw.h>
 #include <GLFW/glfw3.h>
 
-#include "buffer.h"
+#include "buffer.hpp"
 
 namespace rsd {
 

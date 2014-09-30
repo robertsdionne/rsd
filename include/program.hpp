@@ -1,5 +1,5 @@
-#ifndef RSD_PROGRAM_H_
-#define RSD_PROGRAM_H_
+#ifndef RSD_PROGRAM_HPP_
+#define RSD_PROGRAM_HPP_
 
 #include <GLXW/glxw.h>
 #include <GLFW/glfw3.h>
@@ -51,4 +51,4 @@ namespace rsd {
 
 }  // namespace rsd
 
-#endif  // RSD_PROGRAM_H_
+#endif  // RSD_PROGRAM_HPP_

@@ -1,5 +1,5 @@
-#ifndef RSD_MOUSE_H_
-#define RSD_MOUSE_H_
+#ifndef RSD_MOUSE_HPP_
+#define RSD_MOUSE_HPP_
 
 #include <chrono>
 #include <glm/glm.hpp>
@@ -40,4 +40,4 @@ namespace rsd {
 
 }  // namespace rsd
 
-#endif  // RSD_MOUSE_H_
+#endif  // RSD_MOUSE_HPP_

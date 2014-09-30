@@ -2,9 +2,9 @@
 #include <GLFW/glfw3.h>
 #include <vector>
 
-#include "program.h"
-#include "vertexarray.h"
-#include "vertexformat.h"
+#include "program.hpp"
+#include "vertexarray.hpp"
+#include "vertexformat.hpp"
 
 namespace rsd {
 
